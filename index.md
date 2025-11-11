@@ -1,8 +1,3 @@
----
-layout: default
-title: Methodology Assignment 4 – Task 2
----
-
 # Methodology Assignment 4, Task 2
 
 **Name & Email:** Colin Wang — <cow004@ucsd.edu>  
